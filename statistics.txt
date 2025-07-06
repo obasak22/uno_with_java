@@ -1,0 +1,4 @@
+olcum|0.1.0
+olcumbasak|1.6.82
+olcummm|2.1.159
+basak|0.0.0
